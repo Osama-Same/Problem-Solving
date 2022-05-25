@@ -1,0 +1,11 @@
+{
+  "name": "negative-positive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "negativePositive.js",
+  "scripts": {
+    "dev": "nodemon negativePositive.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pairs-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pairs.js",
+  "scripts": {
+    "dev": "nodemon pairs.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

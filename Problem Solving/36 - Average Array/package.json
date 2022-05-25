@@ -1,0 +1,11 @@
+{
+  "name": "average",
+  "version": "1.0.0",
+  "description": "",
+  "main": "average.js",
+  "scripts": {
+    "dev": "nodemon average.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

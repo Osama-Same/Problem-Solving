@@ -1,0 +1,11 @@
+{
+  "name": "less-word-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "less.js",
+  "scripts": {
+    "dev": "nodemon less.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

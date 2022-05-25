@@ -1,0 +1,11 @@
+{
+  "name": "duplicate-remove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "remove.js",
+  "scripts": {
+    "dev": "nodemon remove.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

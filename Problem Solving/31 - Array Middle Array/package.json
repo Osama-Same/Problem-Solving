@@ -1,0 +1,11 @@
+{
+  "name": "14---array-middle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrayMiddle.js",
+  "scripts": {
+    "dev": "nodemon ArrayMiddle.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

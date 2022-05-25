@@ -1,0 +1,11 @@
+{
+  "name": "24---remove-duplicate-char-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "removeDuplicateChar.js",
+  "scripts": {
+    "dev": "nodemon removeDuplicateChar.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

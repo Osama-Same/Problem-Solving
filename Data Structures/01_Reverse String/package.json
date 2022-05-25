@@ -1,0 +1,11 @@
+{
+  "name": "01_reverse-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reversestring.js",
+  "scripts": {
+    "dev": "nodemon reversestring.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

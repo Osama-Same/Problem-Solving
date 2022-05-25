@@ -1,0 +1,11 @@
+{
+  "name": "quick-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quickSort.js",
+  "scripts": {
+    "dev": "nodemon quickSort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

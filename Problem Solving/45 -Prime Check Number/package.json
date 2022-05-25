@@ -1,0 +1,11 @@
+{
+  "name": "prime-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isPrime.js",
+  "scripts": {
+    "dev": "nodemon isPrime.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

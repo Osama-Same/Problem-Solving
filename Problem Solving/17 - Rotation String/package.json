@@ -1,0 +1,11 @@
+{
+  "name": "rotation-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rotation.js",
+  "scripts": {
+    "dev": "nodemon Rotation.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

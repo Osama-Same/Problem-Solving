@@ -1,0 +1,11 @@
+{
+  "name": "prime-factors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primeFactors.js",
+  "scripts": {
+    "dev": "nodemon primeFactors.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

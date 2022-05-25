@@ -1,0 +1,11 @@
+{
+  "name": "4---validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Validation.js",
+  "scripts": {
+    "dev": "nodemon Validation.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

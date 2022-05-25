@@ -1,0 +1,11 @@
+{
+  "name": "duplicate-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count.js",
+  "scripts": {
+    "dev": "nodemon count.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

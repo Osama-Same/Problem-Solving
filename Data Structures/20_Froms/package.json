@@ -1,0 +1,11 @@
+{
+  "name": "17_froms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "17_qfroms.js",
+  "scripts": {
+    "dev": "nodemon 17_qfroms.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

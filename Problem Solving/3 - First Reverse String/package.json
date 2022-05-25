@@ -1,0 +1,11 @@
+{
+  "name": "3---first-reverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "First Reverse.js",
+  "scripts": {
+    "dev": "nodemon First Reverse.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

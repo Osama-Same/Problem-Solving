@@ -1,0 +1,11 @@
+{
+  "name": "10---times-of-most-freq-char",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Times Of Most Freq Char.js",
+  "scripts": {
+    "dev": "nodemon Times Of Most Freq Char.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

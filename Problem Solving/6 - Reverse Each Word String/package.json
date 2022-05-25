@@ -1,0 +1,11 @@
+{
+  "name": "12---reverse-each-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Reverse Each Word.js",
+  "scripts": {
+    "dev": "nodemon Reverse Each Word.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

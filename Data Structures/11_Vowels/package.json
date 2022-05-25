@@ -1,0 +1,11 @@
+{
+  "name": "11_vowels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "11_vowels.js",
+  "scripts": {
+    "dev": "nodemon 11_vowels.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "12---check-digits-strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Strings.js",
+  "scripts": {
+    "dev": "nodemon Strings.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

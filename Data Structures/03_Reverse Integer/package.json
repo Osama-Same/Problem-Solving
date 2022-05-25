@@ -1,0 +1,11 @@
+{
+  "name": "03_reverse-integer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "integer.js",
+  "scripts": {
+    "dev": "nodemon integer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

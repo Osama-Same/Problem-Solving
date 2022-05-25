@@ -1,0 +1,11 @@
+{
+  "name": "bucket-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bucket Sort.js",
+  "scripts": {
+    "dev": "nodemon Bucket Sort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

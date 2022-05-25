@@ -1,0 +1,11 @@
+{
+  "name": "21---character-frequency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "characterFrequency.js",
+  "scripts": {
+    "dev": "nodemon characterFrequency.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

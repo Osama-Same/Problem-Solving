@@ -1,0 +1,11 @@
+{
+  "name": "15_weave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weave.js",
+  "scripts": {
+    "dev": "nodemon 15_weave.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

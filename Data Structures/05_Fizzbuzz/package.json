@@ -1,0 +1,11 @@
+{
+  "name": "05_fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "05_fizzbuzz.js",
+  "scripts": {
+    "dev": "nodemon 05_fizzbuzz.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

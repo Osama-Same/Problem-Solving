@@ -1,0 +1,11 @@
+{
+  "name": "16---even-occurrence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "evenOccurrence.js",
+  "scripts": {
+    "dev": "nodemon evenOccurrence.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

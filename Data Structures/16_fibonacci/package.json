@@ -1,0 +1,11 @@
+{
+  "name": "13_fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci.js",
+  "scripts": {
+    "dev": "nodemon fibonacci.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

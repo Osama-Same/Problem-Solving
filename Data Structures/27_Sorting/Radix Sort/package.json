@@ -1,0 +1,11 @@
+{
+  "name": "radix-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Radix Sort.js",
+  "scripts": {
+    "dev": "nodemon Radix Sort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

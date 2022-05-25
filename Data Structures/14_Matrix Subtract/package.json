@@ -1,0 +1,11 @@
+{
+  "name": "matrix-subtract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subtract.js",
+  "scripts": {
+    "dev": "nodemon subtract.jz"
+  },
+  "author": "",
+  "license": "ISC"
+}

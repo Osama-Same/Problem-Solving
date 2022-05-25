@@ -1,0 +1,11 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binarySearch.js",
+  "scripts": {
+    "dev": "nodemon binarySearch.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

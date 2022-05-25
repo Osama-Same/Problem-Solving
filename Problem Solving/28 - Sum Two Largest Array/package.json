@@ -1,0 +1,11 @@
+{
+  "name": "sum-tow-largest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Largest.js",
+  "scripts": {
+    "dev": "nodemon Largest.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

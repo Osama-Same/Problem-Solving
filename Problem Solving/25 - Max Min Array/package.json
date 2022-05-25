@@ -1,0 +1,11 @@
+{
+  "name": "max.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Max.js",
+  "scripts": {
+    "dev": "nodemon Max.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

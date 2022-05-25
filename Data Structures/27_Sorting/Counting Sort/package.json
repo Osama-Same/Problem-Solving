@@ -1,0 +1,11 @@
+{
+  "name": "counting-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Counting Sort.js",
+  "scripts": {
+    "dev": "nodemon Counting Sort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

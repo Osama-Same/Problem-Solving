@@ -1,0 +1,11 @@
+{
+  "name": "22---array-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_Clone.js",
+  "scripts": {
+    "dev": "nodemon array_Clone.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

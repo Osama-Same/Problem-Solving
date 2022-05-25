@@ -1,0 +1,11 @@
+{
+  "name": "16_stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "16_stack.js",
+  "scripts": {
+    "dev": "nodemon 16_stack.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

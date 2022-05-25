@@ -1,0 +1,11 @@
+{
+  "name": "count-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countZero.js",
+  "scripts": {
+    "dev": "nodemon countZero.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

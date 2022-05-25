@@ -1,0 +1,11 @@
+{
+  "name": "22_tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "22_tree.js",
+  "scripts": {
+    "dev": "nodemon 22_tree.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

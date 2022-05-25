@@ -1,0 +1,11 @@
+{
+  "name": "19---factorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial.js",
+  "scripts": {
+    "dev": "nodemon factorial.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

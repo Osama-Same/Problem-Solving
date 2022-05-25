@@ -1,0 +1,11 @@
+{
+  "name": "matrix-multiple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiple.js",
+  "scripts": {
+    "dev": "nodemon multiple.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

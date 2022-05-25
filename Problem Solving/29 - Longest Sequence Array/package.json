@@ -1,0 +1,11 @@
+{
+  "name": "9---longest-sequence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Longest Sequence.js",
+  "scripts": {
+    "dev": "nodemon Longest Sequence.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

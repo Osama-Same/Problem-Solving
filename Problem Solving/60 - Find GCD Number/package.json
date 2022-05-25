@@ -1,0 +1,11 @@
+{
+  "name": "60---find-gcd-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Find GCD.js",
+  "scripts": {
+    "dev": "nodemon Find GCD.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

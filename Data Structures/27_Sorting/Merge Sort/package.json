@@ -1,0 +1,11 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergeSort.js",
+  "scripts": {
+    "dev": "nodemon mergeSort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

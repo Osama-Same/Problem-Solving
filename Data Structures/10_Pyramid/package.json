@@ -1,0 +1,11 @@
+{
+  "name": "10_pyramid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10_pyramid.js",
+  "scripts": {
+    "dev": "nodemon 10_pyramid.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

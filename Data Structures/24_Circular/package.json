@@ -1,0 +1,11 @@
+{
+  "name": "20_circular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "20_circular.js",
+  "scripts": {
+    "dev": "nodemon 20_circular.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

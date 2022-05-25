@@ -1,0 +1,11 @@
+{
+  "name": "07_anagrams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "07_anagrams.js",
+  "scripts": {
+    "dev": "nodemon 07_anagrams.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

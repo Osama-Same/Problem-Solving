@@ -1,0 +1,11 @@
+{
+  "name": "18---largest-product-of-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "largestProductOfThree.js",
+  "scripts": {
+    "dev": "nodemon largestProductOfThree.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

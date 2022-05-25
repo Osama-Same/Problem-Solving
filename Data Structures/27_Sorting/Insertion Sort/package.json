@@ -1,0 +1,11 @@
+{
+  "name": "insertion-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Insertion Sort.js",
+  "scripts": {
+    "dev": "nodemon Insertion Sort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

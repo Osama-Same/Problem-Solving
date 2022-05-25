@@ -1,0 +1,11 @@
+{
+  "name": "13---missing-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Missing.js",
+  "scripts": {
+    "dev": "nodemon Missing.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

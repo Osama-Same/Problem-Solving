@@ -1,0 +1,12 @@
+{
+  "name": "23---duplicate-maxmin-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Duplicate.js",
+  "scripts": {
+
+    "dev": "nodemon Duplicate.js "
+  },
+  "author": "",
+  "license": "ISC"
+}

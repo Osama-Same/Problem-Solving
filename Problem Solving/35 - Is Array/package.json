@@ -1,0 +1,11 @@
+{
+  "name": "24---is-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "is_array.js",
+  "scripts": {
+    "dev": "nodemon is_array.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

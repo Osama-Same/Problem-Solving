@@ -1,0 +1,11 @@
+{
+  "name": "2---longest-word",
+  "version": "1.0.0",
+  "main": "longestWord.js",
+  "scripts": {
+    "dev": "nodemon longestWord.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

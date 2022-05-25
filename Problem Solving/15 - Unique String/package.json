@@ -1,0 +1,12 @@
+{
+  "name": "unique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unique.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon unique.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

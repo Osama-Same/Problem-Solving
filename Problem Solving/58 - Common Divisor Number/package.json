@@ -1,0 +1,11 @@
+{
+  "name": "common-divisor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CommonDivisor.js",
+  "scripts": {
+    "dev": "nodemon CommonDivisor.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

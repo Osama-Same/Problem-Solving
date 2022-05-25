@@ -1,0 +1,11 @@
+{
+  "name": "7---sum-array-odd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Sum Array Odd.js",
+  "scripts": {
+    "dev": "nodemon Sum Array Odd.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

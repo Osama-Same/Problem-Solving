@@ -1,0 +1,11 @@
+{
+  "name": "selection-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Selection Sort.js",
+  "scripts": {
+    "dev": "nodemon Selection Sort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

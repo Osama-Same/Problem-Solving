@@ -1,0 +1,11 @@
+{
+  "name": "11---is-power-of-two",
+  "version": "1.0.0",
+  "main": "Is Power Of Two.js",
+  "scripts": {
+    "dev": "nodemon Is Power Of Two.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

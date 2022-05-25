@@ -1,0 +1,11 @@
+{
+  "name": "6---even-or-not",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Even.js",
+  "scripts": {
+    "dev": "nodemon Even.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "13---largest-possible-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Largest Possible Sum.js",
+  "scripts": {
+    "dev": "nodemon Largest Possible Sum.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

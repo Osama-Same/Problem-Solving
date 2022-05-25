@@ -1,0 +1,11 @@
+{
+  "name": "19_middle-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "19_midpoint.js",
+  "scripts": {
+    "dev": "nodemon 19_midpoint.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

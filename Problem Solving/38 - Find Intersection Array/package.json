@@ -1,0 +1,11 @@
+{
+  "name": "5---find-intersection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Intersection.js",
+  "scripts": {
+    "dev": "nodemon Intersection.js "
+  },
+  "author": "",
+  "license": "ISC"
+}

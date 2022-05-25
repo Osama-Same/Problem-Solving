@@ -1,0 +1,11 @@
+{
+  "name": "missing-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "missing.js",
+  "scripts": {
+    "dev": "nodemon missing.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

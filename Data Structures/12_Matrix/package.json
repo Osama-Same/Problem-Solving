@@ -1,0 +1,11 @@
+{
+  "name": "12_matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "12_matrix.js",
+  "scripts": {
+    "dev": "nodemon 12_matrix.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

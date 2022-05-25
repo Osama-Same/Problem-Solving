@@ -1,0 +1,11 @@
+{
+  "name": "08_capitalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "08_capitalize.js",
+  "scripts": {
+    "dev": "nodemon 08_capitalize.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

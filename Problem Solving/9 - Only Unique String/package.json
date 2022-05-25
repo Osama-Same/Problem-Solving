@@ -1,0 +1,11 @@
+{
+  "name": "20---only-unique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "onlyUnique.js",
+  "scripts": {
+    "dev": "nodemon onlyUnique.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon Reverse.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

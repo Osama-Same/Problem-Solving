@@ -1,0 +1,11 @@
+{
+  "name": "8---unique-item",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Unique Item.js",
+  "scripts": {
+    "dev": "nodemon Unique Item.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

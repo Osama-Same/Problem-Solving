@@ -1,0 +1,11 @@
+{
+  "name": "commas-underscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Commas.js",
+  "scripts": {
+    "dev": "nodemon Commas.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

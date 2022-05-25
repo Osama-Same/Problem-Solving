@@ -1,0 +1,11 @@
+{
+  "name": "14_queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "14_queue.js",
+  "scripts": {
+    "dev": "nodemon 14_queue.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

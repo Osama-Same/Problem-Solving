@@ -1,0 +1,11 @@
+{
+  "name": "18_linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "18_linkedlist.js",
+  "scripts": {
+    "dev": "nodemon 18_linkedlist.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

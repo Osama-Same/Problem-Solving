@@ -1,0 +1,11 @@
+{
+  "name": "21_from-last",
+  "version": "1.0.0",
+  "description": "",
+  "main": "21_fromlast.js",
+  "scripts": {
+    "dev": "nodemon 21_fromlast.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

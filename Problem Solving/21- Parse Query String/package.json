@@ -1,0 +1,11 @@
+{
+  "name": "23--parse-query-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parseQueryString.js",
+  "scripts": {
+    "dev": "nodemon parseQueryString.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

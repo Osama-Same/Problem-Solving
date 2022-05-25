@@ -1,0 +1,11 @@
+{
+  "name": "15---common-characters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commonCharacters.js",
+  "scripts": {
+    "dev": "nodemon commonCharacters.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "17---first-non-repeated-character",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstNonRepeatedCharacter.js",
+  "scripts": {
+    "dev": "nodemon firstNonRepeatedCharacter.ja"
+  },
+  "author": "",
+  "license": "ISC"
+}

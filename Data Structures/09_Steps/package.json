@@ -1,0 +1,11 @@
+{
+  "name": "09_steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "09_steps.js",
+  "scripts": {
+    "dev": "nodemon 09_steps.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

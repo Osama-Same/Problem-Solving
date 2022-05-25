@@ -1,0 +1,11 @@
+{
+  "name": "reverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverse.js",
+  "scripts": {
+    "dev": "nodemon reverse.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

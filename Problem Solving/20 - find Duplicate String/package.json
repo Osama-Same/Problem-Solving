@@ -1,0 +1,11 @@
+{
+  "name": "20---find-duplicate-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findDuplicateCharacter.js",
+  "scripts": {
+    "dev": "nodemon findDuplicateCharacter.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "02_palindrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02_palindrome.js",
+  "scripts": {
+    "dev": "nodemon 02_palindrome.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sum-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumFinder.js",
+  "scripts": {
+    "dev": "nodemon sumFinder.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
