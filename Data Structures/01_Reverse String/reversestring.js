@@ -7,12 +7,12 @@
 //   reverse('Greetings!') === '!sgniteerG'
 
 function reverse(str) {
-    let result = "";
-    let word = str.split("").reverse();
-    for (let i = 0; i < word.length; i++) {
-      result += word[i];
-    }
-    return result;
+  let result = "";
+  let word = str.split("").reverse();
+  for (let i = 0; i < word.length; i++) {
+    result += word[i];
+  }
+  return result;
 }
 console.log(reverse('apple')) // elppa
 console.log(reverse('hello')) // olleh
